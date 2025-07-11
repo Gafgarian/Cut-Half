@@ -2,7 +2,7 @@ var cWidth = 800;
 var cHeight = 450;
 var breadCanvas;
 //URL's of breads in breads folder
-var breads = {0:["keem-sp.png",'Keem'],1:["bread1.png",'Bread'], 2:["sanfranciscosourdough.png",'San Francisco Sourdough'],3:["baguette2.png",'Baguette'],4:["painaulevain.png",'Pain Au Levain'],5:['miche.png', 'Miche'],6:['peasantbread.png','Peasant Bread'],7:['baguette2.png','Baguette'],8:['olivebread.png','Olive Bread'],9:['demibaguette.png','Demi Baguette'],10:['cranberryandpecan.png','Cranberry and Pecan'],11:['ciabattaroll.png','Ciabatta Roll'],12:['ciabattadinnerroll.png', 'Ciabatta Dinner Roll'],13:['ciabatta.png', 'Ciabatta'],14:['12grainandseedroll.png', '12 Grain and Seed Roll'],15:['12grainandseeddinnerroll.png', '12 Grain and Seed Dinner Roll'], 16:['brioche.png','Brioche'],17:['briocheroll.png','Brioche Roll'],18:['poppykaiserroll.png', 'Poppy Kaiser Roll'],19:['raisinandwalnutlevain.png', 'Raisin and Walnut Levain'],20:['sesamekaiserroll.png','Sesame Kaiser Roll'],21:['wheatsourdoughroll.png','Wheat Sourdough Roll'],22:['kaiserroll.png','Kaiser Roll'],23:['oatandcranberryporridgebread.png','Oat and Cranberry Porridge Bread']};
+var breads = {0:["keem-sp.png",'Keem'],1:["beans-sp.png",'Beans'], 2:["billy-sp.png",'Billy'],3:["boogie-archive.png",'Boogie'],4:["buff-sp.png",'Buff'],5:['cdrom-sp.png', 'CD-Rom'],6:['glamy-sp.png','Glamy'],7:['ken-sp.png','Ken'],8:['knightmare-sp.png','Knightmare'],9:['rastov-archive.png','Rastov'],10:['tina-sp.png','Tina D'],11:['xylie-sp.png','Xylie'],12:['zey-sp.png', 'Zey']};
 
 //Number of breads
 var breadcount = 0;

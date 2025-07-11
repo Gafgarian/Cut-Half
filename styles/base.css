@@ -2,7 +2,7 @@ body,html{
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   font-weight: 300;
-  color:#212529;
+  color:#fff;
   margin:0px;position: fixed;overflow: hidden;
 }
 .mainwrapper {

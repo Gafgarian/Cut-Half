@@ -79,9 +79,9 @@ header a:hover {
   font-family: Alegreya, cursive;
 }
 .bread-btn {
-  background-color:rgb(254,254,254);
+  background-color: #f8e81a;
   font-size:30px;
-  border:1px solid #f8e81a;
+  border:1px solid #111;
   border-radius:4px;
   font-weight:300;
   padding: 0.2rem 1rem 0.2rem 1rem;
@@ -91,10 +91,13 @@ header a:hover {
   -o-transition:background-color 0.15s, box-shadow 0.15s;
   transition:background-color 0.15s, box-shadow 0.15s;
   transition:background-color 0.15s, box-shadow 0.15s, -webkit-box-shadow 0.15s;
-  color: #f8e81a;
+  color: #111;
   font-family: 'Cookie', cursive, helvetica;
 }
 .bread-btn:hover {
+  background-color: #111);
+  border:1px solid #f8e81a;
+  color: #f8e81a;
   -webkit-box-shadow: 0px 0px 0px 0.175rem rgb(164,114,58,0.5);
   box-shadow: 0px 0px 0px 0.175rem rgb(164,114,58,0.5);
   cursor:pointer;

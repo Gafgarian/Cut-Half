@@ -69,8 +69,9 @@ header a:hover {
 
 #messageResponse {
   font-weight:300;
-  font-size:20px;
+  font-size:40px;
   font-family: Alegreya, cursive;
+  color: #f8e81a;
 }
 #comments_title{ 
   font-weight:400;

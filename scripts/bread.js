@@ -136,7 +136,7 @@ function draw(){
   
   
   imageMode(CORNER)
-  stroke(150);
+  stroke(255,255,0);
   strokeWeight(5);
   
   //Display the slice canvas, which is just the cutting board overlayed over the lines of the slices.

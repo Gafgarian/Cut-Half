@@ -81,7 +81,7 @@ header a:hover {
 .bread-btn {
   background-color:rgb(254,254,254);
   font-size:30px;
-  border:1px solid rgb(164,114,58);
+  border:1px solid #f8e81a;
   border-radius:4px;
   font-weight:300;
   padding: 0.2rem 1rem 0.2rem 1rem;
@@ -91,7 +91,7 @@ header a:hover {
   -o-transition:background-color 0.15s, box-shadow 0.15s;
   transition:background-color 0.15s, box-shadow 0.15s;
   transition:background-color 0.15s, box-shadow 0.15s, -webkit-box-shadow 0.15s;
-  color:rgb(164,114,58);
+  color: #f8e81a;
   font-family: 'Cookie', cursive, helvetica;
 }
 .bread-btn:hover {

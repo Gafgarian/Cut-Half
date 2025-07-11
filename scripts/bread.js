@@ -252,8 +252,8 @@ function calculateAreas(slices){
   var centersx = {};
   var centersy = {};
   
-  //Clear the background with white color
-  background(255);
+  //Clear the background with black color
+  background(0);
   
   //Draw the bread back on
   

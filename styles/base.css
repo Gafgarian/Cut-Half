@@ -59,7 +59,7 @@ button:focus {outline:0;}
   height: 28px;
   bottom: 0px;
   z-index:9999;
-  color:rgb(52,58,64);
+  color: #f8e81a;
   margin-top: 40px;
   -webkit-transform: translateX(-7px);
   transform: translateX(-7px);
